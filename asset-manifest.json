@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fun-film/static/css/main.35222ce6.css",
+    "main.js": "/fun-film/static/js/main.33f0a2a6.js",
+    "static/js/787.b104d3cb.chunk.js": "/fun-film/static/js/787.b104d3cb.chunk.js",
+    "static/media/Gagalin.ttf": "/fun-film/static/media/Gagalin.986721ede89affaa972b.ttf",
+    "static/media/Gagalin.woff": "/fun-film/static/media/Gagalin.64e4137dabf982606c3e.woff",
+    "static/media/popcorn.svg": "/fun-film/static/media/popcorn.9599419a5cb0c9a4ed663477ac87dc84.svg",
+    "static/media/nautiluspompilius.ttf": "/fun-film/static/media/nautiluspompilius.83d04aed214b924dc16d.ttf",
+    "static/media/Gagalin.woff2": "/fun-film/static/media/Gagalin.ec3c96f4d754d83d2c9e.woff2",
+    "static/media/nautiluspompilius.woff": "/fun-film/static/media/nautiluspompilius.cc894b6b118eedb04250.woff",
+    "static/media/nautiluspompilius.woff2": "/fun-film/static/media/nautiluspompilius.2086447a0272e7843866.woff2",
+    "index.html": "/fun-film/index.html",
+    "main.35222ce6.css.map": "/fun-film/static/css/main.35222ce6.css.map",
+    "main.33f0a2a6.js.map": "/fun-film/static/js/main.33f0a2a6.js.map",
+    "787.b104d3cb.chunk.js.map": "/fun-film/static/js/787.b104d3cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35222ce6.css",
+    "static/js/main.33f0a2a6.js"
+  ]
+}
